@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 13px;
+}
+.logo {
+  height: 50px;
+}
+.website-name {
+  color: #2cc6c6;
+  font-weight: bold;
+}
+.co-win-container {
+  background-color: #161625;
+  padding: 20px;
+}
+.failure-text {
+  color: white;
+  font-family: 'Bree Serif';
+}
